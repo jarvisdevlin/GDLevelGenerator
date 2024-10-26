@@ -1,2 +1,7 @@
 # GDLevelGenerator
-Using AI Chatbots to create Geometry Dash Levels.
+## Setup
+```
+1. Install Geometry Dash, Node.js and Geode SDK
+2. Run "npm i"
+3. Install WSLiveEditor
+```
